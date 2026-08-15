@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow runtime state
+mlruns/
+mlartifacts/
+*.db
+*.db-shm
+*.db-wal
+
+# Generated reports and local outputs
+outputs/
+reports/generated/
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+
