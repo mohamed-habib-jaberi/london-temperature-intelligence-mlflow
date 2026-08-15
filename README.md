@@ -135,7 +135,6 @@ The packaged pipeline imputes missing values, standardizes the features, and ret
 ```text
 .
 ├── London_Temperature_Intelligence_with_MLflow.ipynb
-├── London_Temperature_Intelligence_with_MLflow_DataCamp_Submission.ipynb
 ├── london_weather.csv
 ├── tower_bridge.jpeg
 ├── requirements.txt
@@ -144,7 +143,6 @@ The packaged pipeline imputes missing values, standardizes the features, and ret
 ```
 
 - The main notebook is the documented portfolio workflow.
-- The DataCamp notebook follows the more constrained submission variable names.
 - Runtime databases, artifacts, and generated outputs are intentionally ignored by Git.
 
 ## Installation
